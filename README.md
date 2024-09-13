@@ -31,9 +31,8 @@ To improve the model's predictive power, we performed advanced feature engineeri
 ### Model Implementation and Ensembling:
 We implemented three machine learning models:
 
-- **XGBoost**: Chosen for its powerful gradient boosting algorithm.
-- **RandomForest**: A strong ensemble method known for its robustness and ability to capture complex patterns.
-- **Logistic Regression**: A simpler, interpretable model used for benchmarking.
+- **XGBoost**
+- **Logistic Regression**
 
 After training these models individually, we ensembled their predictions using a weighted average method to improve overall accuracy and reduce variance.
 
