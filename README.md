@@ -1,4 +1,4 @@
-# Fungi Forager Poisonous vs- dible Mushroom Classifier
+# Fungi Forager Poisonous vs Edible Mushroom Classifier
 This repository provides a comprehensive pipeline for data analysis, feature engineering, and machine learning modeling. It includes detailed Exploratory Data Analysis (EDA), implementation of three models, and an ensembling approach to improve predictions. Ideal for end-to-end machine learning solutions.
 
 ![American_School_-_Edible_and_Poisonous_Mushrooms_-_(MeisterDrucke-1095020)](https://github.com/user-attachments/assets/d0777338-4df6-49c2-817e-e07002fd63cf)
