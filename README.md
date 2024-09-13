@@ -39,8 +39,5 @@ After training these models individually, we ensembled their predictions using a
 ### Hyperparameter Optimization:
 We fine-tuned the models using grid search and randomized search to find the optimal hyperparameters for each model, focusing on improving accuracy and minimizing overfitting.
 
-### Feature Importance:
-We conducted feature importance analysis to identify the most influential factors contributing to the prediction of poisonous mushrooms. This helped refine the model by emphasizing impactful variables and improving overall interpretability.
-
 ### Conclusion:
 This project demonstrates a complete workflow for solving a binary classification problem with an emphasis on robust feature engineering and model ensembling. By combining insights from EDA and fine-tuning multiple models, we aim to deliver a high-performance solution for mushroom classification.
