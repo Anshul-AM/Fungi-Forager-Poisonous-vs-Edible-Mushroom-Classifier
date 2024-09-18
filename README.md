@@ -24,9 +24,7 @@ The goal of the EDA was to uncover important insights about the mushroom feature
 To improve the model's predictive power, we performed advanced feature engineering, which included:
 
 - Handling missing data where applicable.
-- Encoding categorical variables with `LabelEncoder` and `OneHotEncoder`.
 - Creation of interaction features between key variables.
-- Adding new binary features such as `HasOdor`, `HasSpots`, and others based on domain knowledge.
 
 ### Model Implementation and Ensembling:
 We implemented three machine learning models:
